@@ -1,0 +1,12 @@
+<?php
+
+define("CONF_CHATMIX_KEY"             ,"YOUR-CHATMIX-KEY");
+define("CONF_CHATMIX_TOKEN"           ,"YOUR-CHATMIX-TOKEN");
+define("CONF_CHATMIX_AGENDAMENTO"     , "sim");
+define("CONF_CHATMIX_GERARPDF"        , "sim");
+define("CONF_CHATMIX_INCLUIRACENTOS"  , "sim");
+define("CONF_CHATMIX_LIMITECARACTERES", 1000);
+define("CONF_CHATMIX_SENDMENSAGEM", [
+    "5537999999999",
+    "5537999999999"
+]);

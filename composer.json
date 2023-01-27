@@ -1,0 +1,23 @@
+{
+    "name": "nilsonpessim/chatmix-whatsapp",
+    "description": "Envio de Mensagens do WhatsApp com o Chatmix",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nilsonpessim\\ChatmixWhatsApp\\": "src/"
+        },
+        "files": [
+            "src/app.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Nilson Pessim",
+            "email": "nilson@techlabs.net.br",
+            "homepage": "https://techlabs.net.br",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
